@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Demonstration dataset with synthetic results; not official race results. -->
+<drivers>
+  <driver id="driver-01">
+    <firstName>Max</firstName>
+    <lastName>Verstappen</lastName>
+    <carNumber>1</carNumber>
+    <country>Netherlands</country>
+    <team>Red Bull Racing</team>
+    <birthDate>1997-09-30</birthDate>
+  </driver>
+  <driver id="driver-02">
+    <firstName>Sergio</firstName>
+    <lastName>Perez</lastName>
+    <carNumber>11</carNumber>
+    <country>Mexico</country>
+    <team>Red Bull Racing</team>
+    <birthDate>1990-01-26</birthDate>
+  </driver>
+  <driver id="driver-03">
+    <firstName>Lewis</firstName>
+    <lastName>Hamilton</lastName>
+    <carNumber>44</carNumber>
+    <country>United Kingdom</country>
+    <team>Mercedes</team>
+    <birthDate>1985-01-07</birthDate>
+  </driver>
+  <driver id="driver-04">
+    <firstName>George</firstName>
+    <lastName>Russell</lastName>
+    <carNumber>63</carNumber>
+    <country>United Kingdom</country>
+    <team>Mercedes</team>
+    <birthDate>1998-02-15</birthDate>
+  </driver>
+  <driver id="driver-05">
+    <firstName>Charles</firstName>
+    <lastName>Leclerc</lastName>
+    <carNumber>16</carNumber>
+    <country>Monaco</country>
+    <team>Ferrari</team>
+    <birthDate>1997-10-16</birthDate>
+  </driver>
+  <driver id="driver-06">
+    <firstName>Carlos</firstName>
+    <lastName>Sainz</lastName>
+    <carNumber>55</carNumber>
+    <country>Spain</country>
+    <team>Ferrari</team>
+    <birthDate>1994-09-01</birthDate>
+  </driver>
+  <driver id="driver-07">
+    <firstName>Lando</firstName>
+    <lastName>Norris</lastName>
+    <carNumber>4</carNumber>
+    <country>United Kingdom</country>
+    <team>McLaren</team>
+    <birthDate>1999-11-13</birthDate>
+  </driver>
+  <driver id="driver-08">
+    <firstName>Oscar</firstName>
+    <lastName>Piastri</lastName>
+    <carNumber>81</carNumber>
+    <country>Australia</country>
+    <team>McLaren</team>
+    <birthDate>2001-04-06</birthDate>
+  </driver>
+  <driver id="driver-09">
+    <firstName>Fernando</firstName>
+    <lastName>Alonso</lastName>
+    <carNumber>14</carNumber>
+    <country>Spain</country>
+    <team>Aston Martin</team>
+    <birthDate>1981-07-29</birthDate>
+  </driver>
+  <driver id="driver-10">
+    <firstName>Lance</firstName>
+    <lastName>Stroll</lastName>
+    <carNumber>18</carNumber>
+    <country>Canada</country>
+    <team>Aston Martin</team>
+    <birthDate>1998-10-29</birthDate>
+  </driver>
+  <driver id="driver-11">
+    <firstName>Pierre</firstName>
+    <lastName>Gasly</lastName>
+    <carNumber>10</carNumber>
+    <country>France</country>
+    <team>Alpine</team>
+    <birthDate>1996-02-07</birthDate>
+  </driver>
+  <driver id="driver-12">
+    <firstName>Esteban</firstName>
+    <lastName>Ocon</lastName>
+    <carNumber>31</carNumber>
+    <country>France</country>
+    <team>Alpine</team>
+    <birthDate>1996-09-17</birthDate>
+  </driver>
+  <driver id="driver-13">
+    <firstName>Alexander</firstName>
+    <lastName>Albon</lastName>
+    <carNumber>23</carNumber>
+    <country>Thailand</country>
+    <team>Williams</team>
+    <birthDate>1996-03-23</birthDate>
+  </driver>
+  <driver id="driver-14">
+    <firstName>Yuki</firstName>
+    <lastName>Tsunoda</lastName>
+    <carNumber>22</carNumber>
+    <country>Japan</country>
+    <team>RB</team>
+    <birthDate>2000-05-11</birthDate>
+  </driver>
+  <driver id="driver-15">
+    <firstName>Valtteri</firstName>
+    <lastName>Bottas</lastName>
+    <carNumber>77</carNumber>
+    <country>Finland</country>
+    <team>Sauber</team>
+    <birthDate>1989-08-28</birthDate>
+  </driver>
+</drivers>

@@ -1,0 +1,87 @@
+{
+  "demonstration": true,
+  "count": 3,
+  "results": [
+    {
+      "driverId": "driver-13",
+      "raceId": "race-13",
+      "position": 1,
+      "points": 25,
+      "fastestLap": "1:32.123",
+      "status": "Finished",
+      "id": "result-37",
+      "driver": {
+        "firstName": "Alexander",
+        "lastName": "Albon",
+        "carNumber": 23,
+        "country": "Thailand",
+        "team": "Williams",
+        "birthDate": "1996-03-23",
+        "id": "driver-13"
+      },
+      "race": {
+        "name": "Hungarian Grand Prix",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date": "2024-07-21",
+        "laps": 70,
+        "circuitLengthKm": 4.381,
+        "id": "race-13"
+      }
+    },
+    {
+      "driverId": "driver-14",
+      "raceId": "race-13",
+      "position": 2,
+      "points": 18,
+      "fastestLap": "1:32.456",
+      "status": "Finished",
+      "id": "result-38",
+      "driver": {
+        "firstName": "Yuki",
+        "lastName": "Tsunoda",
+        "carNumber": 22,
+        "country": "Japan",
+        "team": "RB",
+        "birthDate": "2000-05-11",
+        "id": "driver-14"
+      },
+      "race": {
+        "name": "Hungarian Grand Prix",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date": "2024-07-21",
+        "laps": 70,
+        "circuitLengthKm": 4.381,
+        "id": "race-13"
+      }
+    },
+    {
+      "driverId": "driver-15",
+      "raceId": "race-13",
+      "position": 15,
+      "points": 0,
+      "fastestLap": "",
+      "status": "DNF",
+      "id": "result-39",
+      "driver": {
+        "firstName": "Valtteri",
+        "lastName": "Bottas",
+        "carNumber": 77,
+        "country": "Finland",
+        "team": "Sauber",
+        "birthDate": "1989-08-28",
+        "id": "driver-15"
+      },
+      "race": {
+        "name": "Hungarian Grand Prix",
+        "circuit": "Hungaroring",
+        "country": "Hungary",
+        "date": "2024-07-21",
+        "laps": 70,
+        "circuitLengthKm": 4.381,
+        "id": "race-13"
+      }
+    }
+  ]
+}

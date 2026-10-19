@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Demonstration dataset with synthetic results; not official race results. -->
+<results>
+  <result id="result-01">
+    <driverId>driver-01</driverId>
+    <raceId>race-01</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:20.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-02">
+    <driverId>driver-02</driverId>
+    <raceId>race-01</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:20.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-03">
+    <driverId>driver-03</driverId>
+    <raceId>race-01</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-04">
+    <driverId>driver-02</driverId>
+    <raceId>race-02</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:21.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-05">
+    <driverId>driver-03</driverId>
+    <raceId>race-02</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:21.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-06">
+    <driverId>driver-04</driverId>
+    <raceId>race-02</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-07">
+    <driverId>driver-03</driverId>
+    <raceId>race-03</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:22.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-08">
+    <driverId>driver-04</driverId>
+    <raceId>race-03</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:22.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-09">
+    <driverId>driver-05</driverId>
+    <raceId>race-03</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-10">
+    <driverId>driver-04</driverId>
+    <raceId>race-04</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:23.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-11">
+    <driverId>driver-05</driverId>
+    <raceId>race-04</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:23.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-12">
+    <driverId>driver-06</driverId>
+    <raceId>race-04</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-13">
+    <driverId>driver-05</driverId>
+    <raceId>race-05</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:24.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-14">
+    <driverId>driver-06</driverId>
+    <raceId>race-05</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:24.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-15">
+    <driverId>driver-07</driverId>
+    <raceId>race-05</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-16">
+    <driverId>driver-06</driverId>
+    <raceId>race-06</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:25.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-17">
+    <driverId>driver-07</driverId>
+    <raceId>race-06</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:25.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-18">
+    <driverId>driver-08</driverId>
+    <raceId>race-06</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-19">
+    <driverId>driver-07</driverId>
+    <raceId>race-07</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:26.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-20">
+    <driverId>driver-08</driverId>
+    <raceId>race-07</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:26.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-21">
+    <driverId>driver-09</driverId>
+    <raceId>race-07</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-22">
+    <driverId>driver-08</driverId>
+    <raceId>race-08</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:27.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-23">
+    <driverId>driver-09</driverId>
+    <raceId>race-08</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:27.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-24">
+    <driverId>driver-10</driverId>
+    <raceId>race-08</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-25">
+    <driverId>driver-09</driverId>
+    <raceId>race-09</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:28.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-26">
+    <driverId>driver-10</driverId>
+    <raceId>race-09</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:28.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-27">
+    <driverId>driver-11</driverId>
+    <raceId>race-09</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-28">
+    <driverId>driver-10</driverId>
+    <raceId>race-10</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:29.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-29">
+    <driverId>driver-11</driverId>
+    <raceId>race-10</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:29.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-30">
+    <driverId>driver-12</driverId>
+    <raceId>race-10</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-31">
+    <driverId>driver-11</driverId>
+    <raceId>race-11</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:30.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-32">
+    <driverId>driver-12</driverId>
+    <raceId>race-11</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:30.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-33">
+    <driverId>driver-13</driverId>
+    <raceId>race-11</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-34">
+    <driverId>driver-12</driverId>
+    <raceId>race-12</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:31.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-35">
+    <driverId>driver-13</driverId>
+    <raceId>race-12</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:31.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-36">
+    <driverId>driver-14</driverId>
+    <raceId>race-12</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-37">
+    <driverId>driver-13</driverId>
+    <raceId>race-13</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:32.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-38">
+    <driverId>driver-14</driverId>
+    <raceId>race-13</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:32.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-39">
+    <driverId>driver-15</driverId>
+    <raceId>race-13</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-40">
+    <driverId>driver-14</driverId>
+    <raceId>race-14</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:33.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-41">
+    <driverId>driver-15</driverId>
+    <raceId>race-14</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:33.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-42">
+    <driverId>driver-01</driverId>
+    <raceId>race-14</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+  <result id="result-43">
+    <driverId>driver-15</driverId>
+    <raceId>race-15</raceId>
+    <position>1</position>
+    <points>25</points>
+    <fastestLap>1:34.123</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-44">
+    <driverId>driver-01</driverId>
+    <raceId>race-15</raceId>
+    <position>2</position>
+    <points>18</points>
+    <fastestLap>1:34.456</fastestLap>
+    <status>Finished</status>
+  </result>
+  <result id="result-45">
+    <driverId>driver-02</driverId>
+    <raceId>race-15</raceId>
+    <position>15</position>
+    <points>0</points>
+    <fastestLap></fastestLap>
+    <status>DNF</status>
+  </result>
+</results>

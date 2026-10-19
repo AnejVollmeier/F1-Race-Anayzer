@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Demonstration dataset with synthetic results; not official race results. -->
+<races>
+  <race id="race-01">
+    <name>Bahrain Grand Prix</name>
+    <circuit>Bahrain International Circuit</circuit>
+    <country>Bahrain</country>
+    <date>2024-03-02</date>
+    <laps>57</laps>
+    <circuitLengthKm>5.412</circuitLengthKm>
+  </race>
+  <race id="race-02">
+    <name>Saudi Arabian Grand Prix</name>
+    <circuit>Jeddah Corniche Circuit</circuit>
+    <country>Saudi Arabia</country>
+    <date>2024-03-09</date>
+    <laps>50</laps>
+    <circuitLengthKm>6.174</circuitLengthKm>
+  </race>
+  <race id="race-03">
+    <name>Australian Grand Prix</name>
+    <circuit>Albert Park Circuit</circuit>
+    <country>Australia</country>
+    <date>2024-03-24</date>
+    <laps>58</laps>
+    <circuitLengthKm>5.278</circuitLengthKm>
+  </race>
+  <race id="race-04">
+    <name>Japanese Grand Prix</name>
+    <circuit>Suzuka International Racing Course</circuit>
+    <country>Japan</country>
+    <date>2024-04-07</date>
+    <laps>53</laps>
+    <circuitLengthKm>5.807</circuitLengthKm>
+  </race>
+  <race id="race-05">
+    <name>Chinese Grand Prix</name>
+    <circuit>Shanghai International Circuit</circuit>
+    <country>China</country>
+    <date>2024-04-21</date>
+    <laps>56</laps>
+    <circuitLengthKm>5.451</circuitLengthKm>
+  </race>
+  <race id="race-06">
+    <name>Miami Grand Prix</name>
+    <circuit>Miami International Autodrome</circuit>
+    <country>United States</country>
+    <date>2024-05-05</date>
+    <laps>57</laps>
+    <circuitLengthKm>5.412</circuitLengthKm>
+  </race>
+  <race id="race-07">
+    <name>Emilia Romagna Grand Prix</name>
+    <circuit>Autodromo Enzo e Dino Ferrari</circuit>
+    <country>Italy</country>
+    <date>2024-05-19</date>
+    <laps>63</laps>
+    <circuitLengthKm>4.909</circuitLengthKm>
+  </race>
+  <race id="race-08">
+    <name>Monaco Grand Prix</name>
+    <circuit>Circuit de Monaco</circuit>
+    <country>Monaco</country>
+    <date>2024-05-26</date>
+    <laps>78</laps>
+    <circuitLengthKm>3.337</circuitLengthKm>
+  </race>
+  <race id="race-09">
+    <name>Canadian Grand Prix</name>
+    <circuit>Circuit Gilles Villeneuve</circuit>
+    <country>Canada</country>
+    <date>2024-06-09</date>
+    <laps>70</laps>
+    <circuitLengthKm>4.361</circuitLengthKm>
+  </race>
+  <race id="race-10">
+    <name>Spanish Grand Prix</name>
+    <circuit>Circuit de Barcelona-Catalunya</circuit>
+    <country>Spain</country>
+    <date>2024-06-23</date>
+    <laps>66</laps>
+    <circuitLengthKm>4.657</circuitLengthKm>
+  </race>
+  <race id="race-11">
+    <name>Austrian Grand Prix</name>
+    <circuit>Red Bull Ring</circuit>
+    <country>Austria</country>
+    <date>2024-06-30</date>
+    <laps>71</laps>
+    <circuitLengthKm>4.318</circuitLengthKm>
+  </race>
+  <race id="race-12">
+    <name>British Grand Prix</name>
+    <circuit>Silverstone Circuit</circuit>
+    <country>United Kingdom</country>
+    <date>2024-07-07</date>
+    <laps>52</laps>
+    <circuitLengthKm>5.891</circuitLengthKm>
+  </race>
+  <race id="race-13">
+    <name>Hungarian Grand Prix</name>
+    <circuit>Hungaroring</circuit>
+    <country>Hungary</country>
+    <date>2024-07-21</date>
+    <laps>70</laps>
+    <circuitLengthKm>4.381</circuitLengthKm>
+  </race>
+  <race id="race-14">
+    <name>Belgian Grand Prix</name>
+    <circuit>Circuit de Spa-Francorchamps</circuit>
+    <country>Belgium</country>
+    <date>2024-07-28</date>
+    <laps>44</laps>
+    <circuitLengthKm>7.004</circuitLengthKm>
+  </race>
+  <race id="race-15">
+    <name>Dutch Grand Prix</name>
+    <circuit>Circuit Zandvoort</circuit>
+    <country>Netherlands</country>
+    <date>2024-08-25</date>
+    <laps>72</laps>
+    <circuitLengthKm>4.259</circuitLengthKm>
+  </race>
+</races>
