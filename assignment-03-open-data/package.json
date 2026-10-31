@@ -1,0 +1,8 @@
+{
+  "name": "assignment-03-open-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prikaz odprtih meteoroloških podatkov SURS v formatu PC-Axis",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "chart.js": "4.5.1" }
+}

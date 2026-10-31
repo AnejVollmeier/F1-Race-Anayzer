@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>F1 Race Analyzer – Weather Statistics</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/chart.js" defer></script>
+  <script src="/script.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">TIDS · NALOGA 3 · ODPRTI PODATKI</p>
+      <h1>F1 Race Analyzer – Weather Statistics</h1>
+      <p>Demonstracijski modul vremenske analitike s slovenskimi meteorološkimi podatki. Podatki niso meritve na dirkališčih Formule 1.</p>
+    </header>
+    <section class="filters" aria-label="Izbira podatkov">
+      <label>Meteorološka postaja / območje<select id="station" disabled></select></label>
+      <label>Leto oziroma obdobje<select id="period" disabled></select></label>
+    </section>
+    <p id="status" role="status">Nalaganje podatkov PC-Axis …</p>
+    <section class="statistics" aria-label="Statistika" aria-live="polite">
+      <article><h2>Povprečje mesecev</h2><p id="average">—</p><small id="coverage">—</small></article>
+      <article><h2>Najtoplejši mesec</h2><p id="warmest">—</p></article>
+      <article><h2>Najhladnejši mesec</h2><p id="coldest">—</p></article>
+    </section>
+    <section class="panel">
+      <h2 id="chart-title">Povprečne mesečne temperature</h2>
+      <div class="chart"><canvas id="weather-chart" role="img" aria-label="Stolpčni graf mesečnih temperatur; vrednosti so tudi v spodnji tabeli."></canvas></div>
+      <p>Manjkajoče meritve nimajo stolpca. Povprečje je aritmetična sredina razpoložljivih mesecev, zato se lahko razlikuje od objavljene letne meritve.</p>
+      <details><summary>Mesečne vrednosti in manjkajoči podatki</summary>
+        <table><thead><tr><th scope="col">Mesec</th><th scope="col">Temperatura</th></tr></thead><tbody id="monthly-values"></tbody></table>
+      </details>
+    </section>
+    <footer>
+      <p>Vir: SURS / OPSI, tabela <strong>0156101S</strong>. Izvor podatkov: ARSO. Licenca: CC BY 4.0.</p>
+      <p><a href="https://podatki.gov.si/dataset/surs0156101s">Zbirka na OPSI</a> · <a href="/data/weather.px">Lokalna izvorna datoteka PC-Axis</a></p>
+    </footer>
+  </main>
+</body>
+</html>
