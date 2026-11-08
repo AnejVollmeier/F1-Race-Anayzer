@@ -1,0 +1,141 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #202733;
+  background: #f2f4f7;
+  line-height: 1.6;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  border-top: 6px solid #c9232e;
+}
+main {
+  max-width: 900px;
+  margin: 48px auto;
+  padding: 0 24px;
+}
+header {
+  margin-bottom: 28px;
+}
+h1 {
+  font-size: clamp(1.7rem, 4vw, 2.4rem);
+  line-height: 1.2;
+  margin: 10px 0 18px;
+}
+h1 span {
+  display: block;
+  font-size: 0.7em;
+  margin-top: 10px;
+  color: #535d6a;
+}
+.eyebrow {
+  color: #a81b25;
+  font-weight: bold;
+  font-size: 0.85rem;
+}
+form,
+#result {
+  background: white;
+  border: 1px solid #d8dde4;
+  border-radius: 8px;
+  padding: 26px;
+}
+fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0;
+  margin-bottom: 18px;
+}
+.driver-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+select,
+textarea {
+  width: 100%;
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid #a8b1bd;
+  border-radius: 4px;
+  background: white;
+  color: inherit;
+  font: inherit;
+  margin-bottom: 20px;
+}
+textarea {
+  display: block;
+  resize: vertical;
+}
+button {
+  background: #bd202b;
+  color: white;
+  border: 0;
+  border-radius: 4px;
+  padding: 12px 28px;
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  background: #9c1923;
+}
+fieldset:disabled button {
+  opacity: 0.6;
+  cursor: wait;
+}
+select:focus-visible,
+textarea:focus-visible,
+button:focus-visible {
+  outline: 3px solid #225cb4;
+  outline-offset: 3px;
+}
+#status {
+  min-height: 26px;
+}
+.error {
+  color: #a41620;
+}
+#result {
+  border-top: 4px solid #bd202b;
+  overflow-wrap: anywhere;
+}
+h2 {
+  margin-top: 0;
+}
+h3 {
+  font-size: 1rem;
+}
+footer {
+  color: #586271;
+  font-size: 0.85rem;
+  margin-top: 28px;
+}
+@media (max-width: 600px) {
+  main {
+    margin: 28px auto;
+    padding: 0 16px;
+  }
+  form,
+  #result {
+    padding: 18px;
+  }
+  .driver-fields {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
